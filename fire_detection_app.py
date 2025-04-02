@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import time
 
-url = 'http://localhost:5000/get_data' 
+url = 'https://getdatafromaurdino-yiztygkiej88n2pqfcmv2y.streamlit.app/' 
 
 
 placeholder = st.empty()
