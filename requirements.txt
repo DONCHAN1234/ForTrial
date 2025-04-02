@@ -1,3 +1,10 @@
 streamlit==1.12.0
+altair==4.2.0
+numpy==2.2.4
+pandas==2.2.3
+jinja2==3.1.6
 requests==2.26.0
-altair==5.5.0
+pillow==11.1.0
+protobuf==3.20.3
+validators==0.34.0
+jsonschema==4.23.0
